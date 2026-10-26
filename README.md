@@ -52,7 +52,7 @@ winget install -e --id OpenJS.NodeJS.LTS
 1. **Clone Repository:**
    - Buat folder baru di luar folder `ai-lokal`, beri nama misalnya `ai-lokal1`.
    - Buka folder `ai-lokal1` menggunakan **VS Code** (atau buka terminal di direktori tersebut).
-   - Di terminal, jalankan perintah clone repository:
+   - Di terminal VScode, jalankan perintah clone repository:
      ```bash
      git clone https://github.com/Devanrifan/kantor-ai-agent-local
      ```
